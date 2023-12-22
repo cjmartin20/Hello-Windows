@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.vs
+*.id0
+*.id1
+*.id2
+*.obj
+*.nam
+*.til
+*~
